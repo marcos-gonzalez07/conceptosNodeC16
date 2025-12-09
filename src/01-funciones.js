@@ -26,6 +26,3 @@ if(argumentos.length !== 0){
 }
 
 console.log('el numero aleatorio es: ', getRandomIntInclusive (min, max))
-
-
-
